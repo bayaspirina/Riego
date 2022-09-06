@@ -1,0 +1,21 @@
+Sensor de humedad capacitivo:
+
+  Función: Permite medir la humedad del suelo por la variación de su capacidad,
+  cuenta con una salida analógica.
+
+  Ventajas:
+    - Sus mediciones son mas exactas.
+    - Los electrodos del sensor no están en contacto con el suelo.
+    - Su vida útil es mayor a la de otros sensores.
+
+  Desventajas:
+    - Se le debe aplicar una capa de laca.
+
+  Especificaciones:
+    - Voltaje de alimentación: 3.3v - 5v
+    - Voltaje de salida analógica: 0v a 5v
+    - Tamaño: 99mm x 16mm
+
+Fuentes: https://www.elecrow.com/wiki/index.php?title=Crowtail-Capacitive_Moisture_V2.0
+         https://protosupplies.com/product/capacitive-soil-moisture-sensor-module/
+         https://www.youtube.com/watch?v=udmJyncDvw0
