@@ -5,8 +5,8 @@ Arduino UNO:
   cultivos.
 
   Ventajas:
-    - Compacto
-    - Poder de procesamiento suficiente
+    - Compacto.
+    - Poder de procesamiento suficiente para nuestra aplicación.
 
   Desventajas:
     - No está preparado para la intemperie.

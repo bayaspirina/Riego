@@ -4,7 +4,7 @@ Joystick KY-023
   variables de riego.
 
   Ventajas:
-    - Fácil y cómodo de operar
+    - Fácil y cómodo de operar.
 
   Desventajas:
     - Su vida útil es menor que la de una botonera.

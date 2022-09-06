@@ -1,0 +1,20 @@
+16x2 LCD
+
+  Función: El LCD le permite al usuario ver las variables que modifica y el
+  estado del sistema de riego.
+
+  Ventajas:
+    - Permite mostrar mas información que un display de 7 segmentos.
+    - Versatilidad de información a mostrar.
+
+  Desventajas:
+    - Costo.
+    - Limitada vida útil.
+
+  Especificaciones:
+    - Voltaje de alimentación: 5v
+    - Cantidad de caracteres: 16x2
+    - Caracteres especiales: Si
+    - Tamaño: 24,5mm x 71,5mm
+
+Fuentes: https://www.elprocus.com/lcd-16x2-pin-configuration-and-its-working/
