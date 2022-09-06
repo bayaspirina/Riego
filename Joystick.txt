@@ -13,3 +13,6 @@ Joystick KY-023
   Especificaciones:
     - Voltaje de alimentación: 3.3-5v
     - Dimensión joystick: 40mm x 26mm x 32mm
+
+Fuentes: https://datasheetspdf.com/pdf-file/1402034/Joy-IT/KY-023/1
+         https://components101.com/modules/joystick-module
