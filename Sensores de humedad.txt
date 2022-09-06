@@ -1,0 +1,38 @@
+Sensor de humedad de suelo FC-28:
+
+  Función: El FC-28 permite medir la humedad del suelo por la variación de su
+  conductividad, a la salida del comparador se obtiene la medición de forma
+  analógica o digital.
+
+  Ventajas:
+    - Su costo es un 20% menor a otros sensores.
+    - No requiere protección extra para el sensor.
+
+  Desventajas:
+    - Su vida útil es menor que la de otros sensores.
+    - Sus mediciones son poco exactas.
+    - La electrónica está dividida en 2 partes.
+
+  Especificaciones:
+    - Voltaje de alimentación: 3.3-5v
+    - Voltaje de salida analógica: 0v a 5v
+    - Dimensión sensor de humedad: 60mm x 20mm
+    - Dimensión comparador: 30mm x 15mm
+
+Sensor de humedad capacitivo:
+
+  Función: Permite medir la humedad del suelo por la variación de su capacidad,
+cuenta con una salida analógica.
+
+  Ventajas:
+    - Sus mediciones son mas exactas.
+    - Los electrodos del sensor no están en contacto con el suelo.
+    - Su vida útil es mayor a la de otros sensores.
+
+  Desventajas:
+    - Se le debe aplicar una capa de laca.
+
+  Especificaciones:
+    - Voltaje de alimentación: 3.3v - 5v
+    - Voltaje de salida analógica: 0v a 5v
+    - Tamaño: 99mm x 16mm

@@ -1,0 +1,15 @@
+Joystick KY-023
+
+  Función: El joystick es la interfaz que permite realizar el cambio de las
+  variables de riego.
+
+  Ventajas:
+    - Fácil y cómodo de operar
+
+  Desventajas:
+    - Su vida útil es menor que la de una botonera.
+    - Su costo es significativamente mayor.
+
+  Especificaciones:
+    - Voltaje de alimentación: 3.3-5v
+    - Dimensión joystick: 40mm x 26mm x 32mm

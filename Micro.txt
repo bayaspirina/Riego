@@ -1,0 +1,19 @@
+Arduino UNO:
+
+  Función: El Arduino UNO es la placa microcontroladora que se encargara de
+interpretar las mediciones de los sensores para luego controlar el riego de los
+cultivos.
+
+  Ventajas:
+    - Versátil
+    - De bajo costo
+    - Compacto
+
+  Desventajas:
+    - No está preparado para la intemperie.
+
+  Especificaciones:
+    - Voltaje de alimentación: 7-12v
+    - Dimensión de la placa: 68.6mm x 53.4mm
+    - Salidas analógicas: 6
+    - Salidas digitales: 14
